@@ -1,0 +1,40 @@
+# This workflow will fork, do a clean install of node dependencies, build the source code and run tests across different versions of node
+# For more information see: https://help.github.com/actions/language-and-framework-guides/using-nodejs-with-github-actions
+name: Sync Fork and Node.js CI
+
+on:
+  schedule:
+    - cron: '30 23 * * 1'
+
+jobs:
+  sync:
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: TG908/fork-sync@v1.1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          owner: obarnet
+          base: CSSEGISandData/COVID-19
+          head: master
+  build:
+
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [10.x, 12.x]
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v1
+      with:
+        node-version: ${{ matrix.node-version }}
+    - run: npm ci
+    - run: npm install convert-csv-to-json --save 
+    - run: npm run build --if-present
+    - run: npm test
+      env:
+        CI: true
