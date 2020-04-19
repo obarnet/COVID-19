@@ -4,7 +4,7 @@ name: Sync Fork and Node.js CI
 
 on:
   schedule:
-    - cron: '30 23 * * 1'
+    - cron: '5 * * * *'
 
 jobs:
   sync:
@@ -33,7 +33,6 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
     - run: npm ci
-    - run: npm install convert-csv-to-json --save 
     - run: npm run build --if-present
     - run: npm test
       env:
