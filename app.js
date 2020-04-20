@@ -1,7 +1,7 @@
 const csv = require('csv-parser')
 let fs = require('fs')
 let path = require('path');
-let csvDir = 'csse_covid_19_data\\csse_covid_19_daily_reports';
+let csvDir = path.join('csse_covid_19_data', 'csse_covid_19_daily_reports');
 var dataCopy = {};
 var worldWideData = {"Confirmed": 0, "Deaths": 0, "Recovered": 0, "Active": 0};
 var worldWideDataFile = "";
@@ -24,11 +24,11 @@ fs.readdir(csvDir, (err, files) => {
 	var lastFile = fileName == files[files.length-2];
 	//console.log(fileName);
 	console.log(files[files.length-2]);
-	fileName = csvDir+'\\'+fileName;
+	fileName = path.join(csvDir, fileName);
 	if (path.parse(fileName).ext == '.csv') {
 	  
-      let fileOutputName = 'daily_cases_json\\' + path.parse(fileName).name + '.json';
-	  let worldWideDataFile = 'worldwide_cases\\' + path.parse(fileName).name + '.json';
+      let fileOutputName = path.join('daily_cases_json', path.parse(fileName).name + '.json');
+	  let worldWideDataFile = path.join('worldwide_cases', path.parse(fileName).name + '.json');
 	  var data = [];
 	  fs.createReadStream(fileName)
 		.pipe(csv())
