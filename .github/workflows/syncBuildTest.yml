@@ -16,7 +16,7 @@ jobs:
       - uses: TG908/fork-sync@v1.1
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          owner: obarnet
+          owner: CSSEGISandData
           base: master
           head: master
   build:
