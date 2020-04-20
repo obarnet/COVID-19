@@ -4,7 +4,7 @@ name: Sync Fork and Node.js CI
 
 on:
   schedule:
-    - cron: '0 1/2 * * *'
+    - cron: '30 1/2 * * *'
   push:
     branches: 
       - master
