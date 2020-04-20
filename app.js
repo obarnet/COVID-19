@@ -1,4 +1,3 @@
-let csvToJson = require('convert-csv-to-json');
 const csv = require('csv-parser')
 let fs = require('fs')
 let path = require('path');
