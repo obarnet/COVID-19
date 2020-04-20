@@ -22,7 +22,6 @@ fs.readdir(csvDir, (err, files) => {
   files.sort();
   files.forEach(fileName => {
 	var lastFile = fileName == files[files.length-2];
-	//console.log(fileName);
 	console.log(files[files.length-2]);
 	fileName = path.join(csvDir, fileName);
 	if (path.parse(fileName).ext == '.csv') {
