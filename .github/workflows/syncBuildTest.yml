@@ -21,7 +21,7 @@ jobs:
           owner: CSSEGISandData
           base: master
           head: master
-          force: true
+          merge_method: rebase
   build:
 
     runs-on: ubuntu-latest
