@@ -10,18 +10,19 @@ on:
     - cron: '0 1/2 * * *'
 
 jobs:
-  sync:
-
+  repo-sync:
     runs-on: ubuntu-latest
-
     steps:
-      - uses: TG908/fork-sync@v1.1
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          owner: CSSEGISandData
-          base: master
-          head: master
-          merge_method: squash
+    - name: repo-sync
+      uses: wei/git-sync@v1
+      env:
+        SOURCE_REPO: "https://github.com/CSSEGISandData/COVID-19.git"
+        SOURCE_BRANCH: "master"
+        DESTINATION_REPO: "https://github.com/obarnet/COVID-19.git"
+        DESTINATION_BRANCH: "master"
+        SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
+      with:
+        args: $SOURCE_REPO $SOURCE_BRANCH $DESTINATION_REPO $DESTINATION_BRANCH
   build:
 
     runs-on: ubuntu-latest
