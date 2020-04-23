@@ -13,6 +13,7 @@ jobs:
   repo-sync:
     runs-on: ubuntu-latest
     steps:
+    - run: git config --global credential.helper cache
     - name: repo-sync
       uses: wei/git-sync@v1
       env:
