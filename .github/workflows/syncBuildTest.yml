@@ -16,9 +16,9 @@ jobs:
     - name: repo-sync
       uses: wei/git-sync@v1
       env:
-        SOURCE_REPO: "CSSEGISandData@github.com/CSSEGISandData/COVID-19"
+        SOURCE_REPO: "CSSEGISandData/COVID-19"
         SOURCE_BRANCH: "master"
-        DESTINATION_REPO: "obarnet@github.com/obarnet/COVID-19"
+        DESTINATION_REPO: "git@github.com/obarnet/COVID-19.git"
         DESTINATION_BRANCH: "master"
         SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
       with:
