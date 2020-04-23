@@ -18,7 +18,7 @@ jobs:
       env:
         SOURCE_REPO: "CSSEGISandData/COVID-19"
         SOURCE_BRANCH: "master"
-        DESTINATION_REPO: "git@github.com/obarnet/COVID-19.git"
+        DESTINATION_REPO: "git@github.com:obarnet/COVID-19.git"
         DESTINATION_BRANCH: "master"
         SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
       with:
