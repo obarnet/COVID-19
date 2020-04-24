@@ -1,0 +1,1112 @@
+{
+  "US": {
+    "Confirmed": 869170,
+    "Deaths": 49954,
+    "Recovered": 80203,
+    "Active": 739013
+  },
+  "Canada": {
+    "Confirmed": 43286,
+    "Deaths": 2241,
+    "Recovered": 14761,
+    "Active": 26284
+  },
+  "United Kingdom": {
+    "Confirmed": 139246,
+    "Deaths": 18791,
+    "Recovered": 712,
+    "Active": 119743
+  },
+  "China": {
+    "Confirmed": 83884,
+    "Deaths": 4636,
+    "Recovered": 77983,
+    "Active": 1265
+  },
+  "Netherlands": {
+    "Confirmed": 35921,
+    "Deaths": 4192,
+    "Recovered": 101,
+    "Active": 31628
+  },
+  "Denmark": {
+    "Confirmed": 8271,
+    "Deaths": 394,
+    "Recovered": 5573,
+    "Active": 2304
+  },
+  "France": {
+    "Confirmed": 159460,
+    "Deaths": 21889,
+    "Recovered": 42762,
+    "Active": 94809
+  },
+  "Afghanistan": {
+    "Confirmed": "1279",
+    "Deaths": "42",
+    "Recovered": "179",
+    "Active": "1058"
+  },
+  "Albania": {
+    "Confirmed": "663",
+    "Deaths": "27",
+    "Recovered": "385",
+    "Active": "251"
+  },
+  "Algeria": {
+    "Confirmed": "3007",
+    "Deaths": "407",
+    "Recovered": "1355",
+    "Active": "1245"
+  },
+  "Andorra": {
+    "Confirmed": "723",
+    "Deaths": "37",
+    "Recovered": "333",
+    "Active": "353"
+  },
+  "Angola": {
+    "Confirmed": "25",
+    "Deaths": "2",
+    "Recovered": "6",
+    "Active": "17"
+  },
+  "Antigua and Barbuda": {
+    "Confirmed": "24",
+    "Deaths": "3",
+    "Recovered": "10",
+    "Active": "11"
+  },
+  "Argentina": {
+    "Confirmed": "3435",
+    "Deaths": "165",
+    "Recovered": "919",
+    "Active": "2351"
+  },
+  "Armenia": {
+    "Confirmed": "1523",
+    "Deaths": "24",
+    "Recovered": "659",
+    "Active": "840"
+  },
+  "Austria": {
+    "Confirmed": "15002",
+    "Deaths": "522",
+    "Recovered": "11694",
+    "Active": "2786"
+  },
+  "Azerbaijan": {
+    "Confirmed": "1548",
+    "Deaths": "20",
+    "Recovered": "948",
+    "Active": "580"
+  },
+  "Bahamas": {
+    "Confirmed": "72",
+    "Deaths": "11",
+    "Recovered": "14",
+    "Active": "47"
+  },
+  "Bahrain": {
+    "Confirmed": "2217",
+    "Deaths": "8",
+    "Recovered": "1082",
+    "Active": "1127"
+  },
+  "Bangladesh": {
+    "Confirmed": "4186",
+    "Deaths": "127",
+    "Recovered": "108",
+    "Active": "3951"
+  },
+  "Barbados": {
+    "Confirmed": "76",
+    "Deaths": "6",
+    "Recovered": "30",
+    "Active": "40"
+  },
+  "Belarus": {
+    "Confirmed": "8022",
+    "Deaths": "60",
+    "Recovered": "938",
+    "Active": "7024"
+  },
+  "Belgium": {
+    "Confirmed": "42797",
+    "Deaths": "6490",
+    "Recovered": "9800",
+    "Active": "26507"
+  },
+  "Belize": {
+    "Confirmed": "18",
+    "Deaths": "2",
+    "Recovered": "5",
+    "Active": "11"
+  },
+  "Benin": {
+    "Confirmed": "54",
+    "Deaths": "1",
+    "Recovered": "27",
+    "Active": "26"
+  },
+  "Bhutan": {
+    "Confirmed": "7",
+    "Deaths": "0",
+    "Recovered": "3",
+    "Active": "4"
+  },
+  "Bolivia": {
+    "Confirmed": "703",
+    "Deaths": "43",
+    "Recovered": "44",
+    "Active": "616"
+  },
+  "Bosnia and Herzegovina": {
+    "Confirmed": "1413",
+    "Deaths": "54",
+    "Recovered": "485",
+    "Active": "874"
+  },
+  "Botswana": {
+    "Confirmed": "22",
+    "Deaths": "1",
+    "Recovered": "0",
+    "Active": "21"
+  },
+  "Brazil": {
+    "Confirmed": "50036",
+    "Deaths": "3331",
+    "Recovered": "26573",
+    "Active": "20132"
+  },
+  "Brunei": {
+    "Confirmed": "138",
+    "Deaths": "1",
+    "Recovered": "119",
+    "Active": "18"
+  },
+  "Bulgaria": {
+    "Confirmed": "1097",
+    "Deaths": "52",
+    "Recovered": "190",
+    "Active": "855"
+  },
+  "Burkina Faso": {
+    "Confirmed": "616",
+    "Deaths": "41",
+    "Recovered": "410",
+    "Active": "165"
+  },
+  "Burma": {
+    "Confirmed": "139",
+    "Deaths": "5",
+    "Recovered": "9",
+    "Active": "125"
+  },
+  "Burundi": {
+    "Confirmed": "11",
+    "Deaths": "1",
+    "Recovered": "4",
+    "Active": "6"
+  },
+  "Cabo Verde": {
+    "Confirmed": "82",
+    "Deaths": "1",
+    "Recovered": "1",
+    "Active": "80"
+  },
+  "Cambodia": {
+    "Confirmed": "122",
+    "Deaths": "0",
+    "Recovered": "110",
+    "Active": "12"
+  },
+  "Cameroon": {
+    "Confirmed": "1334",
+    "Deaths": "43",
+    "Recovered": "668",
+    "Active": "623"
+  },
+  "Central African Republic": {
+    "Confirmed": "16",
+    "Deaths": "0",
+    "Recovered": "10",
+    "Active": "6"
+  },
+  "Chad": {
+    "Confirmed": "33",
+    "Deaths": "0",
+    "Recovered": "8",
+    "Active": "25"
+  },
+  "Chile": {
+    "Confirmed": "11812",
+    "Deaths": "168",
+    "Recovered": "5804",
+    "Active": "5840"
+  },
+  "Colombia": {
+    "Confirmed": "4561",
+    "Deaths": "215",
+    "Recovered": "927",
+    "Active": "3419"
+  },
+  "Congo (Brazzaville)": {
+    "Confirmed": "186",
+    "Deaths": "6",
+    "Recovered": "16",
+    "Active": "164"
+  },
+  "Congo (Kinshasa)": {
+    "Confirmed": "377",
+    "Deaths": "25",
+    "Recovered": "47",
+    "Active": "305"
+  },
+  "Costa Rica": {
+    "Confirmed": "686",
+    "Deaths": "6",
+    "Recovered": "196",
+    "Active": "484"
+  },
+  "Cote d'Ivoire": {
+    "Confirmed": "1004",
+    "Deaths": "14",
+    "Recovered": "359",
+    "Active": "631"
+  },
+  "Croatia": {
+    "Confirmed": "1981",
+    "Deaths": "50",
+    "Recovered": "883",
+    "Active": "1048"
+  },
+  "Cuba": {
+    "Confirmed": "1235",
+    "Deaths": "43",
+    "Recovered": "365",
+    "Active": "827"
+  },
+  "Cyprus": {
+    "Confirmed": "795",
+    "Deaths": "13",
+    "Recovered": "98",
+    "Active": "684"
+  },
+  "Czechia": {
+    "Confirmed": "7187",
+    "Deaths": "210",
+    "Recovered": "2152",
+    "Active": "4825"
+  },
+  "Diamond Princess": {
+    "Confirmed": "712",
+    "Deaths": "13",
+    "Recovered": "645",
+    "Active": "54"
+  },
+  "Djibouti": {
+    "Confirmed": "986",
+    "Deaths": "2",
+    "Recovered": "252",
+    "Active": "732"
+  },
+  "Dominica": {
+    "Confirmed": "16",
+    "Deaths": "0",
+    "Recovered": "9",
+    "Active": "7"
+  },
+  "Dominican Republic": {
+    "Confirmed": "5543",
+    "Deaths": "265",
+    "Recovered": "581",
+    "Active": "4697"
+  },
+  "Ecuador": {
+    "Confirmed": "11183",
+    "Deaths": "560",
+    "Recovered": "1328",
+    "Active": "9295"
+  },
+  "Egypt": {
+    "Confirmed": "3891",
+    "Deaths": "287",
+    "Recovered": "1004",
+    "Active": "2600"
+  },
+  "El Salvador": {
+    "Confirmed": "250",
+    "Deaths": "8",
+    "Recovered": "67",
+    "Active": "175"
+  },
+  "Equatorial Guinea": {
+    "Confirmed": "84",
+    "Deaths": "1",
+    "Recovered": "7",
+    "Active": "76"
+  },
+  "Eritrea": {
+    "Confirmed": "39",
+    "Deaths": "0",
+    "Recovered": "6",
+    "Active": "33"
+  },
+  "Estonia": {
+    "Confirmed": "1592",
+    "Deaths": "45",
+    "Recovered": "192",
+    "Active": "1355"
+  },
+  "Eswatini": {
+    "Confirmed": "31",
+    "Deaths": "1",
+    "Recovered": "8",
+    "Active": "22"
+  },
+  "Ethiopia": {
+    "Confirmed": "116",
+    "Deaths": "3",
+    "Recovered": "21",
+    "Active": "92"
+  },
+  "Fiji": {
+    "Confirmed": "18",
+    "Deaths": "0",
+    "Recovered": "8",
+    "Active": "10"
+  },
+  "Finland": {
+    "Confirmed": "4284",
+    "Deaths": "172",
+    "Recovered": "2000",
+    "Active": "2112"
+  },
+  "Gabon": {
+    "Confirmed": "167",
+    "Deaths": "2",
+    "Recovered": "24",
+    "Active": "141"
+  },
+  "Gambia": {
+    "Confirmed": "10",
+    "Deaths": "1",
+    "Recovered": "2",
+    "Active": "7"
+  },
+  "Georgia": {
+    "Confirmed": "425",
+    "Deaths": "5",
+    "Recovered": "111",
+    "Active": "309"
+  },
+  "Germany": {
+    "Confirmed": "153129",
+    "Deaths": "5575",
+    "Recovered": "103300",
+    "Active": "44254"
+  },
+  "Ghana": {
+    "Confirmed": "1154",
+    "Deaths": "9",
+    "Recovered": "99",
+    "Active": "1046"
+  },
+  "Greece": {
+    "Confirmed": "2463",
+    "Deaths": "125",
+    "Recovered": "577",
+    "Active": "1761"
+  },
+  "Grenada": {
+    "Confirmed": "15",
+    "Deaths": "0",
+    "Recovered": "6",
+    "Active": "9"
+  },
+  "Guatemala": {
+    "Confirmed": "384",
+    "Deaths": "11",
+    "Recovered": "30",
+    "Active": "343"
+  },
+  "Guinea": {
+    "Confirmed": "862",
+    "Deaths": "6",
+    "Recovered": "170",
+    "Active": "686"
+  },
+  "Guinea-Bissau": {
+    "Confirmed": "50",
+    "Deaths": "0",
+    "Recovered": "3",
+    "Active": "47"
+  },
+  "Guyana": {
+    "Confirmed": "70",
+    "Deaths": "7",
+    "Recovered": "9",
+    "Active": "54"
+  },
+  "Haiti": {
+    "Confirmed": "72",
+    "Deaths": "5",
+    "Recovered": "2",
+    "Active": "65"
+  },
+  "Holy See": {
+    "Confirmed": "9",
+    "Deaths": "0",
+    "Recovered": "2",
+    "Active": "7"
+  },
+  "Honduras": {
+    "Confirmed": "519",
+    "Deaths": "47",
+    "Recovered": "31",
+    "Active": "441"
+  },
+  "Hungary": {
+    "Confirmed": "2284",
+    "Deaths": "239",
+    "Recovered": "390",
+    "Active": "1655"
+  },
+  "Iceland": {
+    "Confirmed": "1789",
+    "Deaths": "10",
+    "Recovered": "1509",
+    "Active": "270"
+  },
+  "India": {
+    "Confirmed": "23077",
+    "Deaths": "721",
+    "Recovered": "5012",
+    "Active": "17344"
+  },
+  "Indonesia": {
+    "Confirmed": "7775",
+    "Deaths": "647",
+    "Recovered": "960",
+    "Active": "6168"
+  },
+  "Iran": {
+    "Confirmed": "87026",
+    "Deaths": "5481",
+    "Recovered": "64843",
+    "Active": "16702"
+  },
+  "Iraq": {
+    "Confirmed": "1677",
+    "Deaths": "83",
+    "Recovered": "1171",
+    "Active": "423"
+  },
+  "Ireland": {
+    "Confirmed": "17607",
+    "Deaths": "794",
+    "Recovered": "9233",
+    "Active": "7580"
+  },
+  "Israel": {
+    "Confirmed": "14803",
+    "Deaths": "192",
+    "Recovered": "5611",
+    "Active": "9000"
+  },
+  "Italy": {
+    "Confirmed": "189973",
+    "Deaths": "25549",
+    "Recovered": "57576",
+    "Active": "106848"
+  },
+  "Jamaica": {
+    "Confirmed": "257",
+    "Deaths": "6",
+    "Recovered": "28",
+    "Active": "223"
+  },
+  "Japan": {
+    "Confirmed": "12368",
+    "Deaths": "328",
+    "Recovered": "1494",
+    "Active": "10546"
+  },
+  "Jordan": {
+    "Confirmed": "437",
+    "Deaths": "7",
+    "Recovered": "318",
+    "Active": "112"
+  },
+  "Kazakhstan": {
+    "Confirmed": "2289",
+    "Deaths": "20",
+    "Recovered": "560",
+    "Active": "1709"
+  },
+  "Kenya": {
+    "Confirmed": "320",
+    "Deaths": "14",
+    "Recovered": "89",
+    "Active": "217"
+  },
+  "Korea, South": {
+    "Confirmed": "10708",
+    "Deaths": "240",
+    "Recovered": "8501",
+    "Active": "1967"
+  },
+  "Kosovo": {
+    "Confirmed": "510",
+    "Deaths": "12",
+    "Recovered": "93",
+    "Active": "405"
+  },
+  "Kuwait": {
+    "Confirmed": "2399",
+    "Deaths": "14",
+    "Recovered": "498",
+    "Active": "1887"
+  },
+  "Kyrgyzstan": {
+    "Confirmed": "631",
+    "Deaths": "8",
+    "Recovered": "302",
+    "Active": "321"
+  },
+  "Laos": {
+    "Confirmed": "19",
+    "Deaths": "0",
+    "Recovered": "4",
+    "Active": "15"
+  },
+  "Latvia": {
+    "Confirmed": "778",
+    "Deaths": "11",
+    "Recovered": "133",
+    "Active": "634"
+  },
+  "Lebanon": {
+    "Confirmed": "688",
+    "Deaths": "22",
+    "Recovered": "140",
+    "Active": "526"
+  },
+  "Liberia": {
+    "Confirmed": "101",
+    "Deaths": "8",
+    "Recovered": "20",
+    "Active": "73"
+  },
+  "Libya": {
+    "Confirmed": "60",
+    "Deaths": "2",
+    "Recovered": "15",
+    "Active": "43"
+  },
+  "Liechtenstein": {
+    "Confirmed": "81",
+    "Deaths": "1",
+    "Recovered": "55",
+    "Active": "25"
+  },
+  "Lithuania": {
+    "Confirmed": "1398",
+    "Deaths": "40",
+    "Recovered": "399",
+    "Active": "959"
+  },
+  "Luxembourg": {
+    "Confirmed": "3665",
+    "Deaths": "83",
+    "Recovered": "728",
+    "Active": "2854"
+  },
+  "MS Zaandam": {
+    "Confirmed": "9",
+    "Deaths": "2",
+    "Recovered": "0",
+    "Active": "7"
+  },
+  "Madagascar": {
+    "Confirmed": "121",
+    "Deaths": "0",
+    "Recovered": "58",
+    "Active": "63"
+  },
+  "Malawi": {
+    "Confirmed": "33",
+    "Deaths": "3",
+    "Recovered": "3",
+    "Active": "27"
+  },
+  "Malaysia": {
+    "Confirmed": "5603",
+    "Deaths": "95",
+    "Recovered": "3542",
+    "Active": "1966"
+  },
+  "Maldives": {
+    "Confirmed": "108",
+    "Deaths": "0",
+    "Recovered": "16",
+    "Active": "92"
+  },
+  "Mali": {
+    "Confirmed": "309",
+    "Deaths": "21",
+    "Recovered": "77",
+    "Active": "211"
+  },
+  "Malta": {
+    "Confirmed": "445",
+    "Deaths": "3",
+    "Recovered": "204",
+    "Active": "238"
+  },
+  "Mauritania": {
+    "Confirmed": "7",
+    "Deaths": "1",
+    "Recovered": "6",
+    "Active": "0"
+  },
+  "Mauritius": {
+    "Confirmed": "331",
+    "Deaths": "9",
+    "Recovered": "266",
+    "Active": "56"
+  },
+  "Mexico": {
+    "Confirmed": "11633",
+    "Deaths": "1069",
+    "Recovered": "2627",
+    "Active": "7937"
+  },
+  "Moldova": {
+    "Confirmed": "2926",
+    "Deaths": "80",
+    "Recovered": "661",
+    "Active": "2185"
+  },
+  "Monaco": {
+    "Confirmed": "94",
+    "Deaths": "4",
+    "Recovered": "35",
+    "Active": "55"
+  },
+  "Mongolia": {
+    "Confirmed": "36",
+    "Deaths": "0",
+    "Recovered": "9",
+    "Active": "27"
+  },
+  "Montenegro": {
+    "Confirmed": "316",
+    "Deaths": "5",
+    "Recovered": "123",
+    "Active": "188"
+  },
+  "Morocco": {
+    "Confirmed": "3568",
+    "Deaths": "155",
+    "Recovered": "456",
+    "Active": "2957"
+  },
+  "Mozambique": {
+    "Confirmed": "46",
+    "Deaths": "0",
+    "Recovered": "9",
+    "Active": "37"
+  },
+  "Namibia": {
+    "Confirmed": "16",
+    "Deaths": "0",
+    "Recovered": "7",
+    "Active": "9"
+  },
+  "Nepal": {
+    "Confirmed": "48",
+    "Deaths": "0",
+    "Recovered": "10",
+    "Active": "38"
+  },
+  "New Zealand": {
+    "Confirmed": "1456",
+    "Deaths": "17",
+    "Recovered": "1095",
+    "Active": "344"
+  },
+  "Nicaragua": {
+    "Confirmed": "11",
+    "Deaths": "3",
+    "Recovered": "7",
+    "Active": "1"
+  },
+  "Niger": {
+    "Confirmed": "671",
+    "Deaths": "24",
+    "Recovered": "256",
+    "Active": "391"
+  },
+  "Nigeria": {
+    "Confirmed": "981",
+    "Deaths": "31",
+    "Recovered": "197",
+    "Active": "753"
+  },
+  "North Macedonia": {
+    "Confirmed": "1300",
+    "Deaths": "56",
+    "Recovered": "301",
+    "Active": "943"
+  },
+  "Norway": {
+    "Confirmed": "7401",
+    "Deaths": "194",
+    "Recovered": "32",
+    "Active": "7175"
+  },
+  "Oman": {
+    "Confirmed": "1716",
+    "Deaths": "9",
+    "Recovered": "307",
+    "Active": "1400"
+  },
+  "Pakistan": {
+    "Confirmed": "11155",
+    "Deaths": "237",
+    "Recovered": "2527",
+    "Active": "8391"
+  },
+  "Panama": {
+    "Confirmed": "5166",
+    "Deaths": "146",
+    "Recovered": "271",
+    "Active": "4749"
+  },
+  "Papua New Guinea": {
+    "Confirmed": "8",
+    "Deaths": "0",
+    "Recovered": "0",
+    "Active": "8"
+  },
+  "Paraguay": {
+    "Confirmed": "213",
+    "Deaths": "9",
+    "Recovered": "67",
+    "Active": "137"
+  },
+  "Peru": {
+    "Confirmed": "20914",
+    "Deaths": "572",
+    "Recovered": "7422",
+    "Active": "12920"
+  },
+  "Philippines": {
+    "Confirmed": "6981",
+    "Deaths": "462",
+    "Recovered": "722",
+    "Active": "5797"
+  },
+  "Poland": {
+    "Confirmed": "10511",
+    "Deaths": "454",
+    "Recovered": "1740",
+    "Active": "8317"
+  },
+  "Portugal": {
+    "Confirmed": "22353",
+    "Deaths": "820",
+    "Recovered": "1201",
+    "Active": "20332"
+  },
+  "Qatar": {
+    "Confirmed": "7764",
+    "Deaths": "10",
+    "Recovered": "750",
+    "Active": "7004"
+  },
+  "Romania": {
+    "Confirmed": "10096",
+    "Deaths": "545",
+    "Recovered": "2478",
+    "Active": "7073"
+  },
+  "Russia": {
+    "Confirmed": "62773",
+    "Deaths": "555",
+    "Recovered": "4891",
+    "Active": "57327"
+  },
+  "Rwanda": {
+    "Confirmed": "154",
+    "Deaths": "0",
+    "Recovered": "87",
+    "Active": "67"
+  },
+  "Saint Kitts and Nevis": {
+    "Confirmed": "15",
+    "Deaths": "0",
+    "Recovered": "1",
+    "Active": "14"
+  },
+  "Saint Lucia": {
+    "Confirmed": "15",
+    "Deaths": "0",
+    "Recovered": "15",
+    "Active": "0"
+  },
+  "Saint Vincent and the Grenadines": {
+    "Confirmed": "13",
+    "Deaths": "0",
+    "Recovered": "3",
+    "Active": "10"
+  },
+  "San Marino": {
+    "Confirmed": "501",
+    "Deaths": "40",
+    "Recovered": "63",
+    "Active": "398"
+  },
+  "Sao Tome and Principe": {
+    "Confirmed": "4",
+    "Deaths": "0",
+    "Recovered": "0",
+    "Active": "4"
+  },
+  "Saudi Arabia": {
+    "Confirmed": "13930",
+    "Deaths": "121",
+    "Recovered": "1925",
+    "Active": "11884"
+  },
+  "Senegal": {
+    "Confirmed": "479",
+    "Deaths": "6",
+    "Recovered": "257",
+    "Active": "216"
+  },
+  "Serbia": {
+    "Confirmed": "6630",
+    "Deaths": "125",
+    "Recovered": "870",
+    "Active": "5635"
+  },
+  "Seychelles": {
+    "Confirmed": "11",
+    "Deaths": "0",
+    "Recovered": "6",
+    "Active": "5"
+  },
+  "Sierra Leone": {
+    "Confirmed": "64",
+    "Deaths": "1",
+    "Recovered": "10",
+    "Active": "53"
+  },
+  "Singapore": {
+    "Confirmed": "11178",
+    "Deaths": "12",
+    "Recovered": "924",
+    "Active": "10242"
+  },
+  "Slovakia": {
+    "Confirmed": "1325",
+    "Deaths": "15",
+    "Recovered": "288",
+    "Active": "1022"
+  },
+  "Slovenia": {
+    "Confirmed": "1366",
+    "Deaths": "79",
+    "Recovered": "211",
+    "Active": "1076"
+  },
+  "Somalia": {
+    "Confirmed": "328",
+    "Deaths": "16",
+    "Recovered": "8",
+    "Active": "304"
+  },
+  "South Africa": {
+    "Confirmed": "3953",
+    "Deaths": "75",
+    "Recovered": "1473",
+    "Active": "2405"
+  },
+  "South Sudan": {
+    "Confirmed": "5",
+    "Deaths": "0",
+    "Recovered": "0",
+    "Active": "5"
+  },
+  "Spain": {
+    "Confirmed": "213024",
+    "Deaths": "22157",
+    "Recovered": "89250",
+    "Active": "101617"
+  },
+  "Sri Lanka": {
+    "Confirmed": "368",
+    "Deaths": "7",
+    "Recovered": "107",
+    "Active": "254"
+  },
+  "Sudan": {
+    "Confirmed": "174",
+    "Deaths": "16",
+    "Recovered": "14",
+    "Active": "144"
+  },
+  "Suriname": {
+    "Confirmed": "10",
+    "Deaths": "1",
+    "Recovered": "6",
+    "Active": "3"
+  },
+  "Sweden": {
+    "Confirmed": "16755",
+    "Deaths": "2021",
+    "Recovered": "550",
+    "Active": "14184"
+  },
+  "Switzerland": {
+    "Confirmed": "28496",
+    "Deaths": "1549",
+    "Recovered": "20600",
+    "Active": "6347"
+  },
+  "Syria": {
+    "Confirmed": "42",
+    "Deaths": "3",
+    "Recovered": "6",
+    "Active": "33"
+  },
+  "Taiwan*": {
+    "Confirmed": "427",
+    "Deaths": "6",
+    "Recovered": "253",
+    "Active": "168"
+  },
+  "Tanzania": {
+    "Confirmed": "284",
+    "Deaths": "10",
+    "Recovered": "11",
+    "Active": "263"
+  },
+  "Thailand": {
+    "Confirmed": "2839",
+    "Deaths": "50",
+    "Recovered": "2430",
+    "Active": "359"
+  },
+  "Timor-Leste": {
+    "Confirmed": "23",
+    "Deaths": "0",
+    "Recovered": "1",
+    "Active": "22"
+  },
+  "Togo": {
+    "Confirmed": "88",
+    "Deaths": "6",
+    "Recovered": "59",
+    "Active": "23"
+  },
+  "Trinidad and Tobago": {
+    "Confirmed": "115",
+    "Deaths": "8",
+    "Recovered": "48",
+    "Active": "59"
+  },
+  "Tunisia": {
+    "Confirmed": "918",
+    "Deaths": "38",
+    "Recovered": "190",
+    "Active": "690"
+  },
+  "Turkey": {
+    "Confirmed": "101790",
+    "Deaths": "2491",
+    "Recovered": "18491",
+    "Active": "80808"
+  },
+  "Uganda": {
+    "Confirmed": "74",
+    "Deaths": "0",
+    "Recovered": "46",
+    "Active": "28"
+  },
+  "Ukraine": {
+    "Confirmed": "7170",
+    "Deaths": "187",
+    "Recovered": "504",
+    "Active": "6479"
+  },
+  "United Arab Emirates": {
+    "Confirmed": "8756",
+    "Deaths": "56",
+    "Recovered": "1637",
+    "Active": "7063"
+  },
+  "Uruguay": {
+    "Confirmed": "557",
+    "Deaths": "12",
+    "Recovered": "354",
+    "Active": "191"
+  },
+  "Uzbekistan": {
+    "Confirmed": "1758",
+    "Deaths": "7",
+    "Recovered": "561",
+    "Active": "1190"
+  },
+  "Venezuela": {
+    "Confirmed": "311",
+    "Deaths": "10",
+    "Recovered": "126",
+    "Active": "175"
+  },
+  "Vietnam": {
+    "Confirmed": "268",
+    "Deaths": "0",
+    "Recovered": "224",
+    "Active": "44"
+  },
+  "West Bank and Gaza": {
+    "Confirmed": "480",
+    "Deaths": "4",
+    "Recovered": "92",
+    "Active": "384"
+  },
+  "Western Sahara": {
+    "Confirmed": "6",
+    "Deaths": "0",
+    "Recovered": "5",
+    "Active": "1"
+  },
+  "Yemen": {
+    "Confirmed": "1",
+    "Deaths": "0",
+    "Recovered": "0",
+    "Active": "1"
+  },
+  "Zambia": {
+    "Confirmed": "76",
+    "Deaths": "3",
+    "Recovered": "37",
+    "Active": "36"
+  },
+  "Zimbabwe": {
+    "Confirmed": "28",
+    "Deaths": "4",
+    "Recovered": "2",
+    "Active": "22"
+  },
+  "Australia": {
+    "Confirmed": 6661,
+    "Deaths": 75,
+    "Recovered": 4124,
+    "Active": 2462
+  }
+}

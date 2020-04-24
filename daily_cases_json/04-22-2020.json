@@ -1,9 +1,9 @@
 {
   "US": {
-    "Confirmed": 839675,
-    "Deaths": 46583,
+    "Confirmed": 840220,
+    "Deaths": 46622,
     "Recovered": 77366,
-    "Active": 715726
+    "Active": 716232
   },
   "Canada": {
     "Confirmed": 41650,
