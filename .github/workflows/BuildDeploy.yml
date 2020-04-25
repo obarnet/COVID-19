@@ -1,6 +1,6 @@
 # This workflow will fork, do a clean install of node dependencies, build the source code and run tests across different versions of node
 # For more information see: https://help.github.com/actions/language-and-framework-guides/using-nodejs-with-github-actions
-name: Sync Fork and Node.js CI
+name: Build and Deploy
 on:
   push:
     branches: 
@@ -8,15 +8,6 @@ on:
   schedule:
     - cron: '0 1/2 * * *'
 jobs:
-  sync:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: TG908/fork-sync@v1.1
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          owner: CSSEGISandData
-          base: master
-          head: master
   build:
 
     runs-on: ubuntu-latest
